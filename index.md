@@ -11,7 +11,7 @@ Taipei boy
 - - -
 
 ### about
-A college student who study in National ChungCheng university.
+A college student who study in National ChungCheng university..
 
 
 
